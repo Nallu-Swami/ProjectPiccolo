@@ -1,4 +1,4 @@
-# Project-Piccolo: Object Detection with Python AI
+# Project-Piccolo: Object Detection with Python AI and other Libraries
 
 ![Piccolo](https://www.looper.com/img/gallery/the-untold-truth-of-piccolo/l-intro-1661962971.jpg)
 
