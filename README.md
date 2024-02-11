@@ -2,7 +2,7 @@
 
 ![Piccolo](https://www.looper.com/img/gallery/the-untold-truth-of-piccolo/l-intro-1661962971.jpg)
 
-## Introduction
+## Introduction - Classification based on Harmful and Non Harmful materials
 
 Project-Piccolo is an object detection software inspired by the character Piccolo from Dragon Ball Z, known for being a protector and babysitter. Just like Piccolo watches over and protects, Project-Piccolo is designed to watch over and protect your environment by detecting and identifying objects.
 
